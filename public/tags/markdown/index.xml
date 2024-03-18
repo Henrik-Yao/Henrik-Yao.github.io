@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Tag - 祭酒blog</title>
-        <link>http://localhost:50813/tags/markdown/</link>
-        <description>Markdown - Tag - 祭酒blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>10791894@qq.com (祭酒)</managingEditor>
-            <webMaster>10791894@qq.com (祭酒)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:50813/tags/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://localhost:50813/test/</link>
+        <title>Markdown - 标签 - 祭酒blog</title>
+        <link>http://localhost:57946/tags/markdown/</link>
+        <description>Markdown - 标签 - 祭酒blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>10791894@qq.com (祭酒)</managingEditor>
+            <webMaster>10791894@qq.com (祭酒)</webMaster><copyright>hello</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:57946/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>这是一个测试blog 2</title>
+    <link>http://localhost:57946/posts/test2/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://localhost:50813/test/</guid>
-    <description><![CDATA[Hello WOrld! ]]></description>
+    <author>祭酒</author>
+    <guid>http://localhost:57946/posts/test2/</guid>
+    <description><![CDATA[Hello WOrld!]]></description>
 </item>
 </channel>
 </rss>
