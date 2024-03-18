@@ -1,16 +1,21 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Markdown - 分类 - 祭酒blog</title>
-        <link>http://localhost:61003/categories/markdown/</link>
-        <description>Markdown - 分类 - 祭酒blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>10791894@qq.com (祭酒)</managingEditor>
-            <webMaster>10791894@qq.com (祭酒)</webMaster><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="http://localhost:61003/categories/markdown/" rel="self" type="application/rss+xml" /><item>
-    <title>这是一个测试blog</title>
-    <link>http://localhost:61003/posts/test/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>祭酒</author>
-    <guid>http://localhost:61003/posts/test/</guid>
-    <description><![CDATA[Hello WOrld!]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on 祭酒blog</title>
+    <link>http://localhost:49391/categories/markdown/</link>
+    <description>Recent content in Markdown on 祭酒blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>10791894@qq.com (祭酒)</managingEditor>
+    <webMaster>10791894@qq.com (祭酒)</webMaster>
+    <lastBuildDate>Wed, 01 Jan 2020 16:45:40 +0800</lastBuildDate>
+    <atom:link href="http://localhost:49391/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>这是一个测试blog</title>
+      <link>http://localhost:49391/posts/test/</link>
+      <pubDate>Sun, 01 Dec 2019 21:57:40 +0800</pubDate><author>10791894@qq.com (祭酒)</author>
+      <guid>http://localhost:49391/posts/test/</guid>
+      <description>Hello World!</description>
+    </item>
+  </channel>
 </rss>
